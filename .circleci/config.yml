@@ -15,4 +15,4 @@ notify:
   webhooks:
     - url: https://outlook.office.com/webhook/261549c1-bbfa-48ad-9976-a0cca41058db@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/6779c9841df84fce8b97a87c818f0ca3/df7b5d07-38bd-4a2f-94da-4c27eef448b0
     - url: https://outlook.office.com/webhook/261549c1-bbfa-48ad-9976-a0cca41058db@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/5cd7caa06011474385a049b5a2715b46/df7b5d07-38bd-4a2f-94da-4c27eef448b0
-
+    - url: https://outlook.office.com/webhook/261549c1-bbfa-48ad-9976-a0cca41058db@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/562aad95f5124c4b9068fd793b10a032/df7b5d07-38bd-4a2f-94da-4c27eef448b0
